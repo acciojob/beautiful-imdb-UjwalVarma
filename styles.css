@@ -1,2 +1,62 @@
+* {
+ box-sizing: border-box;
+}
 
-/* Your CSS Code here. */
+body {
+ background-color: #f5f5f5;
+ margin: 0;
+ padding: 0;
+}
+
+.movie-detail-page {
+ background-color: white;
+ padding: 15px;
+ width: 80%;
+ margin: 0 auto;
+ text-align: center;
+}
+
+.moviePic {
+ height: 400px;
+ width: 300px;
+ opacity: 0.8;
+}
+
+.movieDetail {
+ position: relative;
+ top: -50px;
+ width: 50%;body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.moviePic {
+    width: 100%;
+    height: auto;
+    opacity: 0.9;
+}
+
+.movieDetail {
+    position: relative;
+    top: -50px;
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    font-size: 18px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+ text-align: center;
+ font-size: 20px;
+}
